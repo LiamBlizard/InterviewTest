@@ -1,0 +1,32 @@
+﻿@model IEnumerable<InterviewTest.Models.Quote>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Get Random Quote", "RandomQuote")
+</p>
+<table>
+    <tr>
+        <th>
+            Quote
+        </th>
+        <th>Quote Author</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.QuoteText)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.QuoteAuthor)
+        </td>
+        
+    </tr>
+}
+
+</table>

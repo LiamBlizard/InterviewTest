@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QuoteDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="QuoteDBModelStoreContainer">
+    <EntitySet Name="Quotes" EntityType="QuoteDBModel.Store.Quotes" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Quotes">
+    <Key>
+      <PropertyRef Name="QuoteID" />
+    </Key>
+    <Property Name="QuoteID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="QuoteText" Type="nvarchar(max)" />
+  </EntityType>
+</Schema>

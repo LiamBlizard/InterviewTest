@@ -1,0 +1,8 @@
+c:\users\liambootcamp\documents\visual studio 2010\Projects\InterviewTest\InterviewTest.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\liambootcamp\documents\visual studio 2010\Projects\InterviewTest\InterviewTest.Tests\bin\Debug\InterviewTest.Tests.dll.config
+c:\users\liambootcamp\documents\visual studio 2010\Projects\InterviewTest\InterviewTest.Tests\bin\Debug\InterviewTest.Tests.dll
+c:\users\liambootcamp\documents\visual studio 2010\Projects\InterviewTest\InterviewTest.Tests\bin\Debug\InterviewTest.Tests.pdb
+c:\users\liambootcamp\documents\visual studio 2010\Projects\InterviewTest\InterviewTest.Tests\bin\Debug\InterviewTest.dll
+c:\users\liambootcamp\documents\visual studio 2010\Projects\InterviewTest\InterviewTest.Tests\bin\Debug\InterviewTest.pdb
+c:\users\liambootcamp\documents\visual studio 2010\Projects\InterviewTest\InterviewTest.Tests\obj\Debug\InterviewTest.Tests.dll
+c:\users\liambootcamp\documents\visual studio 2010\Projects\InterviewTest\InterviewTest.Tests\obj\Debug\InterviewTest.Tests.pdb

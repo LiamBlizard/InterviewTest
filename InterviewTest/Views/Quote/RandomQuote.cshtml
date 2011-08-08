@@ -1,0 +1,21 @@
+﻿@model InterviewTest.Models.Quote
+
+@{
+    ViewBag.Title = "Random Quote";
+}
+
+<h2>Index</h2>
+
+<fieldset>
+    <legend>Quote</legend>
+
+    <div class="display-label">Quote</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.QuoteText)
+    </div>
+
+    <div class="display-label">Quote Author</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.QuoteAuthor)
+    </div>
+</fieldset>

@@ -1,0 +1,10 @@
+c:\users\liambootcamp\documents\visual studio 2010\Projects\InterviewTest\InterviewTest\obj\Debug\ResolveAssemblyReference.cache
+c:\users\liambootcamp\documents\visual studio 2010\Projects\InterviewTest\InterviewTest\bin\InterviewTest.dll
+c:\users\liambootcamp\documents\visual studio 2010\Projects\InterviewTest\InterviewTest\bin\InterviewTest.pdb
+c:\users\liambootcamp\documents\visual studio 2010\Projects\InterviewTest\InterviewTest\obj\Debug\InterviewTest.dll
+c:\users\liambootcamp\documents\visual studio 2010\Projects\InterviewTest\InterviewTest\obj\Debug\InterviewTest.pdb
+C:\Users\LiamBootCamp\Dropbox\InterviewTest\InterviewTest\bin\InterviewTest.dll
+C:\Users\LiamBootCamp\Dropbox\InterviewTest\InterviewTest\bin\InterviewTest.pdb
+C:\Users\LiamBootCamp\Dropbox\InterviewTest\InterviewTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiamBootCamp\Dropbox\InterviewTest\InterviewTest\obj\Debug\InterviewTest.dll
+C:\Users\LiamBootCamp\Dropbox\InterviewTest\InterviewTest\obj\Debug\InterviewTest.pdb
